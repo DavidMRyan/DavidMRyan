@@ -42,9 +42,7 @@
   ![GNU/Linux](https://img.shields.io/badge/-GNU%2FLinux-333333?style=flat&logo=linux)
 <br/>
 
-<a href="https://github.com/DavidMRyan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidMRyan&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMRyan&theme=buefy&layout=compact" />
-</a>
+![David M. Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMRyan&count_private=true&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMRyan)
 
 <br/>
