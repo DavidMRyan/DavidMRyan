@@ -5,7 +5,7 @@
 - 💼 &nbsp; Freelance Software Engineer & Unity3D Developer
 - 🌱 &nbsp; Learning new technologies related to Windows Desktop Application development; Currently I'm learning the Universal Windows Platform!
 
-<h3> 🛠 &nbsp;Tech Skills</h3>
+<h3> 🛠 &nbsp;Technical Skills</h3>
 
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp)
