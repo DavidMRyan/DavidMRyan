@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Freelance Software Engineer & Unity3D Developer
-- 🌱 &nbsp; Learning new technologies related to Windows Desktop Application development; Currently I'm learning the Universal Windows Platform!
+- 💼 &nbsp; Freelance Software Engineer & Unity3D Developer.
+- 🌱 &nbsp; Learning new technologies related to Windows Desktop Application development; Currently I'm learning the Universal Windows Platform and C!
 
 <h3> 🛠 &nbsp;Technical Skills</h3>
 
