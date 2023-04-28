@@ -1,18 +1,24 @@
 **<h2>Hello & Welcome to my Github Profile; I'm David!</h2>**
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me! </h3>
 
 - 💼 &nbsp; Freelance Software Engineer & Unity3D Developer.
-- 🌱 &nbsp; Learning new technologies related to Windows Desktop Application development; Currently I'm learning C & Rust!
+- 🌱 &nbsp; Learning new technologies related to Windows Desktop Application development!
 
-<h3> 🛠 &nbsp;Technical Skills</h3>
+<h3> 🍎 &nbsp; What I'm Currently Learning: </h3>
+
+- 📝 &nbsp;
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+
+<h3> 🛠 &nbsp; Technical Hard Skills: </h3>
 
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp)
   ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
   ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=cplusplus)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
 - 🌐 &nbsp;
   ![HTML 5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -31,6 +37,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=992bff)
+  ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider)
+  ![CLion](https://img.shields.io/badge/-CLion-333333?style=flat&logo=clion)
 
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
@@ -40,9 +48,7 @@
   ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
   ![GNU/Linux](https://img.shields.io/badge/-GNU%2FLinux-333333?style=flat&logo=linux)
-<br/>
 
-![David M. Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMRyan&count_private=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMRyan)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidMRyan&show_icons=true&theme=transparent"/>
 
-<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMRyan&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats&theme=transparent"/>
