@@ -49,6 +49,8 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
   ![GNU/Linux](https://img.shields.io/badge/-GNU%2FLinux-333333?style=flat&logo=linux)
 
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidMRyan&show_icons=true&theme=transparent"/>
 
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMRyan&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats&theme=transparent"/>
