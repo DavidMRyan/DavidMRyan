@@ -10,7 +10,7 @@
 - 📝 &nbsp;
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-  ![Vlang](https://img.shields.io/badge/-V-333333?style=flat&logo=v)
+  ![Vlang](https://img.shields.io/badge/-Vlang-333333?style=flat&logo=v)
 
 <h3> 🛠 &nbsp; Technical Hard Skills: </h3>
 
