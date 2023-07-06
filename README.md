@@ -8,8 +8,8 @@
 <h3> 🍎 &nbsp; What I'm Currently Learning: </h3>
 
 - 📝 &nbsp;
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
   ![Vlang](https://img.shields.io/badge/-Vlang-333333?style=flat&logo=v)
 
 <h3> 🛠 &nbsp; Technical Hard Skills: </h3>
@@ -17,6 +17,7 @@
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp)
   ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
   ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=cplusplus)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
