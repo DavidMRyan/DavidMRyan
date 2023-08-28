@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me! </h3>
 
 - 💼 &nbsp; Freelance Software Engineer & 3D Artist.
-- 🌱 &nbsp; Learning new technologies related to Windows Desktop Application development!
+- 🌱 &nbsp; Learning new technologies related to Cross-Platform Desktop Applications & Low-Level Applications!
 
 <h3> 🍎 &nbsp; What I'm Currently Learning: </h3>
 
