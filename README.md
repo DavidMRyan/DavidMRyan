@@ -53,6 +53,3 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidMRyan&show_icons=true&theme=transparent"/>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMRyan&hide_progress=true&theme=transparent"/>
