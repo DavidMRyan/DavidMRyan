@@ -14,7 +14,7 @@
 <h3> 🛠 &nbsp; Technical Hard Skills: </h3>
 
 - 💻 &nbsp;
-  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp)
+  ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
   ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
   ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=cplusplus)
