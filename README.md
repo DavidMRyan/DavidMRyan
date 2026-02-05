@@ -8,9 +8,8 @@
 <h3> 🍎 &nbsp; What I'm Currently Learning: </h3>
 
 - 📝 &nbsp;
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-  ![Vlang](https://img.shields.io/badge/-Vlang-333333?style=flat&logo=v)
+  ![Lua](https://img.shields.io/badge/-Luau-333333?style=flat&logo=Luau)
+  ![Roblox Studio](https://img.shields.io/badge/-Roblox_Studio-333333?style=flat&logo=RobloxStudio)
 
 <h3> 🛠 &nbsp; Technical Hard Skills: </h3>
 
